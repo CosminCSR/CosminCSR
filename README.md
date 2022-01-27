@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @CosminCSR
+- I like to challenge myself and solve every problem that awaits me.
+- 🌱 I’m currently learning Java and Sprin MVC
+- 📫 How to reach me:
+- cosminrosu.csr@gmail.com
+- +40751675988
